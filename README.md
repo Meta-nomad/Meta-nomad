@@ -10,16 +10,18 @@
 
 Hello.
 My name is Denis. Im a Graphic/brand designer. 
-Im intrested in crypto projects and GameFi industry. I create any graphic content, also translate to Russian and manage communities. 
+Im intrested in crypto projects and GameFi industry./br
+I create any graphic content, also translate to Russian and manage communities. /br
 I am open to offers of cooperation and new acquaintances. Write to any of my social networks. The links are below.
 
+   
 Thank you for visiting my profile. I wish you all the best
   </div id=text>
 </body>
 
 
 
-
+My contacts:
 
 
 E-Mail: design.lapin@gmail.com
