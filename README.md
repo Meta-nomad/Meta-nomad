@@ -1,5 +1,4 @@
-# about
-  Information about me
+# About me
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hS3ESVXKy595K/giphy.gif" width="400"/>
