@@ -1,6 +1,6 @@
 # About me
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github.com/Meta-nomad/Meta-nomad/blob/main/Medium_header.png" width="800">
 </div>
 
