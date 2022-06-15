@@ -1,7 +1,7 @@
 # About me
 
 <div id="header" align="center">
-  <img src="medium_header.png" width="800">
+  <img src="[medium_header.png](https://github.com/Meta-nomad/Meta-nomad/blob/main/Medium_header.png)" width="800">
 </div>
 
 
