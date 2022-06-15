@@ -2,7 +2,7 @@
   Information about me
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hS3ESVXKy595K/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hS3ESVXKy595K/giphy.gif" width="400"/>
 </div>
 
 
