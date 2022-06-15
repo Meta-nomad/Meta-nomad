@@ -7,7 +7,7 @@
 
 
 <body>
- <div id=text>
+ <div id="text">
 
 Hello.
 My name is Denis. Im a Graphic/brand designer. 
